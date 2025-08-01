@@ -125,3 +125,7 @@ operation flags: sequential
 ## Contributors
 
 - [Ali Naqvi](https://github.com/naqvis) - creator and maintainer
+
+## Additional Credits
+
+- Fixed `Vips::Image.text` method for libvips 8.16+ by [@zw963](https://github.com/zw963)
